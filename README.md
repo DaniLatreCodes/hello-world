@@ -6,8 +6,7 @@ Explain project
 
 ## Function Description
 
-To do describe functionality
-
+Lorem ipsum ...
 ## Technical Description
 
-To do describe specs
+Lorem isum ...
