@@ -5,8 +5,7 @@ body{
 
 div{
     border: 1px solid black;
-    text-align: center;
-    background: yellow;
+    background: orangered;
     border-radius: 10px;
     padding: 10px;
 }
