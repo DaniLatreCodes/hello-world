@@ -1,6 +1,10 @@
+body{
+    display: flex;
+    justify-content: center;
+}
+
 div{
     border: 1px solid black;
-
     background: orangered;
     border-radius: 10px;
     padding: 10px;
